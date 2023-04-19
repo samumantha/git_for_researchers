@@ -33,6 +33,10 @@ public - private
 
 ![local_remote](https://user-images.githubusercontent.com/32324155/233041841-6b789e7c-d9cc-4b5e-8135-6c5f382f94f6.png)
 
+
+`git config --global user.name My Name`
+`git config --global user.email y.name@org.fi`
+
 ---
 
 # Github suggestions (+-)
