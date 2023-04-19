@@ -35,6 +35,15 @@ Demo time!
 
 ---
 
+
+# Optional: Git clone demo
+
+If we have time, should we demo a cloning a repository? As an alternative to copy-paste code from GitHub web pages. 
+
+
+---
+
+
 # This is not a crash course
 
 Check out these awesome materials:
