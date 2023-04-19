@@ -14,7 +14,8 @@ https://xkcd.com/1597/
 * collaboration, merging
 * reproducibility
 
-![image](https://user-images.githubusercontent.com/32324155/233046924-ac11b227-ba4f-4814-9181-29ad5469b099.png)
+<img src="https://user-images.githubusercontent.com/32324155/233046924-ac11b227-ba4f-4814-9181-29ad5469b099.png" width="60%" />
+
 
 * not just code
 
@@ -24,15 +25,15 @@ see also: [CodeRefinery git motivation](https://coderefinery.github.io/git-intro
 
 # Collaboration
 
-![image](https://user-images.githubusercontent.com/32324155/233045262-cf3a2b1d-affe-44e8-aed9-a8a4774fdf80.png)
+<img src="https://user-images.githubusercontent.com/32324155/233045262-cf3a2b1d-affe-44e8-aed9-a8a4774fdf80.png" width="60%" />
+
 https://phdcomics.com/comics/archive.php?comicid=1531 
 
 git - github - gitlab - bitbucket - ...
 
 public - private
 
-![local_remote](https://user-images.githubusercontent.com/32324155/233041841-6b789e7c-d9cc-4b5e-8135-6c5f382f94f6.png)
-
+<img src="https://user-images.githubusercontent.com/32324155/233041841-6b789e7c-d9cc-4b5e-8135-6c5f382f94f6.png" width="60%" />
 
 `git config --global user.name My Name`
 `git config --global user.email y.name@org.fi`
