@@ -9,12 +9,12 @@ https://xkcd.com/1597/
 
 # What is version control and why should I care?
 
-![image](https://user-images.githubusercontent.com/32324155/233046924-ac11b227-ba4f-4814-9181-29ad5469b099.png)
-
 * snapshot, roll-back functionality
 * branching
 * collaboration, merging
 * reproducibility
+
+![image](https://user-images.githubusercontent.com/32324155/233046924-ac11b227-ba4f-4814-9181-29ad5469b099.png)
 
 * not just code
 
