@@ -1,35 +1,42 @@
 # Git* for researchers tips and tricks
 
+![image](https://user-images.githubusercontent.com/32324155/233045375-67648e11-44fc-46f8-bd28-e3b4affe9344.png)
 https://xkcd.com/1597/
 
 ---
 
 # What is version control and why should I care?
 
+![image](https://user-images.githubusercontent.com/32324155/233046924-ac11b227-ba4f-4814-9181-29ad5469b099.png)
+
 * snapshot, roll-back functionality
-* branching : https://coderefinery.github.io/git-intro/_images/octopus.jpeg
+* branching
 * collaboration, merging
 * reproducibility
 
 * not just code
 
-[CodeRefinery git motivation](https://coderefinery.github.io/git-intro/motivation/)
+see also: [CodeRefinery git motivation](https://coderefinery.github.io/git-intro/motivation/)
 
 ---
 
 # Collaboration
 
+![image](https://user-images.githubusercontent.com/32324155/233045262-cf3a2b1d-affe-44e8-aed9-a8a4774fdf80.png)
+https://phdcomics.com/comics/archive.php?comicid=1531 
+
 git - github - gitlab - bitbucket - ...
 
 public - private
 
-image: git* - you - your colleague - Supercomputer
-
-Avoid emails with `thesis_doc_feb23_final_final.doc`
+![local_remote](https://user-images.githubusercontent.com/32324155/233041841-6b789e7c-d9cc-4b5e-8135-6c5f382f94f6.png)
 
 ---
 
 # Github suggestions (+-)
+
+-> Collaborating and discussion via pull requests.
+-> Suggest in code
 
 Demo time!
 
@@ -42,18 +49,19 @@ Check out these awesome materials:
 [Coderefinery self-learning material ](https://coderefinery.github.io/git-intro/)
 [Coderefinery collabrorative git](https://coderefinery.github.io/git-collaborative/)
 
-[Atlassian tutorials]()
+[Atlassian tutorials](https://www.atlassian.com/git/tutorials)
 [Learn git branching](https://learngitbranching.js.org/)
 
-Aalto SCiComp git cheat sheet: https://aaltoscicomp.github.io/cheatsheets/git-the-way-you-need-it-cheatsheet.pdf
+[Aalto SciComp "git the way you need it"](https://aaltoscicomp.github.io/cheatsheets/git-the-way-you-need-it-cheatsheet.pdf)
 
 Join a community of learners and people happy to help: https://coderefinery.zulipchat.com/ 
 
+---
 
 # Extensions and GUIs
 
-Github desktop
+[Github desktop](https://desktop.github.com/)
 
-VSCode and other IDEs
+[VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview) and other IDEs
 
-Jupyter, RStudio
+Jupyter [git](https://github.com/jupyterlab/jupyterlab-git) and [gitplus](https://github.com/ReviewNB/jupyterlab-gitplus), [nbdime](https://github.com/jupyter/nbdime) for notebooks diff and merge , RStudio (eg Tools -> Version control)
