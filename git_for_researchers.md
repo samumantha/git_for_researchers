@@ -36,6 +36,7 @@ public - private
 <img src="https://user-images.githubusercontent.com/32324155/233041841-6b789e7c-d9cc-4b5e-8135-6c5f382f94f6.png" width="30%" />
 
 `git config --global user.name My Name`
+
 `git config --global user.email y.name@org.fi`
 
 ---
@@ -54,9 +55,11 @@ Demo time!
 Check out these awesome materials:
 
 [Coderefinery self-learning material ](https://coderefinery.github.io/git-intro/)
+
 [Coderefinery collabrorative git](https://coderefinery.github.io/git-collaborative/)
 
 [Atlassian tutorials](https://www.atlassian.com/git/tutorials)
+
 [Learn git branching](https://learngitbranching.js.org/)
 
 [Aalto SciComp "git the way you need it"](https://aaltoscicomp.github.io/cheatsheets/git-the-way-you-need-it-cheatsheet.pdf)
@@ -78,6 +81,7 @@ Jupyter [git](https://github.com/jupyterlab/jupyterlab-git) and [gitplus](https:
 
 # collaborative manuscript writing with version control
 [Typst for markdown](https://typst.app/)
+
 [Overleaf for LateX](https://www.overleaf.com/)
 
 ---
